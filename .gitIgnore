@@ -1,0 +1,6 @@
+99temp\ test.ipynb
+__pycache__
+.gitignore~
+.ipynb_checkpoints/*
+
+
